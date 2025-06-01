@@ -2,3 +2,4 @@ manim
 gTTS
 pydub
 google-generativeai
+"manim-voiceover[gtts]"
