@@ -3,3 +3,4 @@ media/
 __pycache__/
 voice.mp3
 voice.wav
+.env
