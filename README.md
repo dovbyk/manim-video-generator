@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is used to visualize any mathematical concepts or theorems in an animated version using the powerful `Manim` library and the Gemini API. You just have to give prompt to Gemini and it will generate a script for you. Simply run the script and get the video.
+This project is used to visualize any mathematical concepts or machine learning algorithms in an animated version using the powerful `Manim` library and the Gemini API. You just have to give prompt to Gemini and it will generate a script for you. Simply run the script and get the video.
 
 ## ℹ️ Setup
 
