@@ -41,7 +41,7 @@ def construct(self):
 
 ## RULES:
 1. **Keep it simple**: 10-15 voiceover blocks maximum
-2. **Use basic Manim objects**: Axes, Text, Dot, Line, MathTex, Circle, Square, Rectangle
+2. **Use basic Manim objects**: Axes, Text, Dot, Line, MathTex, Circle, Square, Rectangle, VGroup
 3. **Clear structure**: Title → Setup → Demo → Conclusion
 4. **Simple narration**: One concept per voiceover block
 5. **Standard colors**: RED (start), BLUE (main), YELLOW (highlight), GREEN (end)
