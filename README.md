@@ -36,6 +36,7 @@ sudo apt install ffpmeg
 
 
 ## ⚠️ Disclaimer
+* Make sure to get your Free Gemini API and add in .env file `GENAI_API_KEY = YOUR_API_KEY`
 * Run the project in a virtual environment to isolate the dependencies used in this specific project.
 * Run this command to create virtual enviroment in Python `python -m venv venv`
 * Activate your virtual environment.
