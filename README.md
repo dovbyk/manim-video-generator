@@ -1,4 +1,4 @@
-# Manim Code Generator
+# Manim Video Generator
 
 ## Project Overview
 
