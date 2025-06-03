@@ -3,3 +3,4 @@ gTTS
 pydub
 google-generativeai
 "manim-voiceover[gtts]"
+python-dotenv
