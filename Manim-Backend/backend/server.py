@@ -9,7 +9,7 @@ from inference import generate_manim_script
 app = Flask(__name__)
 CORS(
     app,
-    origins="https://promptanimate.vercel.app",  # Use string, not list
+    origins="https://promptanimate.vercel.app",  # Use string
     supports_credentials=True,
     allow_headers=["Content-Type", "Authorization"],
     methods=["GET", "POST", "OPTIONS"]
